@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Check it out here - (https://himani-weatherview.netlify.app)
+Check it out here - https://himani-weatherview.netlify.app
 
 ---
 
